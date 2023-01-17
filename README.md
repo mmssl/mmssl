@@ -2,7 +2,7 @@ Hi! 👋
 
 I'm Electrical-Electronics Engineering student.
 
-🔭 Passionate about self-driving technolog, Battery Management Systems and Embedded Linux.
+🔭 Passionate about self-driving technology, Battery Management Systems and Embedded Linux.
 
 🌱 I’m currently learning bare metal programming and Battery Management Systems.
 
