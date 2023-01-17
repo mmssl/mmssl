@@ -14,4 +14,5 @@ I'm Electrical-Electronics Engineering student.
 
 Connect with me:
 
-https://www.linkedin.com/in/muharrem-s%C3%BCsl%C3%BC-119540234/  
+www.linkedin.com/in/muharremsüslü
+
