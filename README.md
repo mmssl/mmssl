@@ -4,7 +4,7 @@ I'm Electrical-Electronics Engineering student.
 
 🔭 Passionate about self-driving technology, Battery Management Systems and Embedded Linux.
 
-🌱 I’m currently learning bare metal programming and Battery Management Systems.
+🌱 I’m currently learning Linux OS.
 
 🥅 Goals: C++, Python, Embedded Linux, Real-Time Operation Systems (RTOS).
 
