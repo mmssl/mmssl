@@ -1,6 +1,6 @@
 <h3 align="center">I'm, Electrical-Electronics Engineering student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmssl&label=Profile%20views&color=99c1f1&style=flat-square" alt="mmssl" /> </p>
+
 
 - 👨‍💻 I’m currently working on **Battery menagement System, Embedded softwares**
 
