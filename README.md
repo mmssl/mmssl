@@ -10,9 +10,9 @@
 
 - 🤝 Goals **C++, Python, Embedded Linux, Real-Time Operation Systems (RTOS).**
 
-- 💬 Ask me about **Ask me about microcontrollers (ST, TI, etc.), ARM CPUs, Technological developments.**
+- 💬 Ask me about ** microcontrollers (ST, TI, etc.), ARM CPUs, Technological developments.**
 
-- ⚡ By the way **zap By the way: I love collecting stamps, and old coins from all around the world.**
+- ⚡ By the way **: I love collecting stamps, and old coins from all around the world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
