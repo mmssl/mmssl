@@ -24,5 +24,7 @@
 
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmssl&show_icons=true&theme=dark&title_color=99c1f1&text_color=f6f5f4&bg_color=5e5c64&hide_border=true&locale=en" alt="mmssl" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmssl&theme=dark" alt="mmssl" /></p>
 
