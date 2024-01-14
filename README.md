@@ -8,7 +8,7 @@
 
 - 🔭 Passionate about **Self-driving technology, AI-based systems, Battery Management Systems and Embedded Linux.**
 
-- 🤝 Goals **C++, Python, Embedded Linux, Real-Time Operation Systems (RTOS).**
+- 🤝 Goals **C++, JavaScript, Node.js, Embedded Linux, Real-Time Operation Systems (RTOS).**
 
 - 💬 Ask me about **microcontrollers (ST, ESP, etc.), ARM CPUs, Linux, and Technological developments.**
 
