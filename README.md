@@ -2,15 +2,15 @@
 
 
 
-- 👨‍💻 I’m currently working on **Battery Management System, Linux, IOT**
+- 👨‍💻 I’m currently working on **Image Processing, Computer Vision, C++, Linux**
 
-- 🌱 I’m currently learning **Battery management system, Embedded Linux**
+- 🌱 I’m currently learning **İmage Processing, Embedded Linux, Linux Kernel Development**
 
-- 🔭 Passionate about **Self-driving technology, AI-based systems, Battery Management Systems and Embedded Linux.**
+- 🔭 Passionate about **Operating System Developmnet, AI-based systems and Embedded Linux.**
 
-- 🤝 Goals **C++, JavaScript, Node.js, Embedded Linux, Real-Time Operation Systems (RTOS).**
+- 🤝 Goals **C++, Rust, Bash, Embedded Linux, Real-Time Operation Systems (RTOS).**
 
-- 💬 Ask me about **microcontrollers (ST, ESP, etc.), ARM CPUs, Linux, and Technological developments.**
+- 💬 Ask me about **microcontrollers (ST, ESP, etc.), C++, Computer Vision, Linux, and Technological developments.**
 
 - ⚡ By the way **I love collecting stamps, and old coins from all around the world.**
 
