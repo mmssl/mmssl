@@ -2,9 +2,9 @@
 
 
 
-- 👨‍💻 I’m currently working on **Image Processing, Computer Vision, C++, Linux**
+- 👨‍💻 I’m currently working on **C++, Linux, Image Processing, Computer Vision**
 
-- 🌱 I’m currently learning **İmage Processing, Embedded Linux, Linux Kernel Development**
+- 🌱 I’m currently learning **Embedded Linux, Linux Kernel Development, Linux Driver Development, Image Processing**
 
 - 🔭 Passionate about **Operating System Developmnet, AI-based systems and Embedded Linux.**
 
