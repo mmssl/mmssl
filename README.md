@@ -2,7 +2,7 @@
 
 <p>
   <b>Test Design Engineer · Python & C/C++ Developer</b><br>
-  Building automated test systems,HIL and user interfaces.
+  Building automated test systems, HIL and user interfaces.
 </p>
 
 <a href="https://linkedin.com/in/muharremsüslü">
